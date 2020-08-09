@@ -1,3 +1,6 @@
 /mylogs.log
 *.log
 ignore/
+*.cpp
+*.htl
+*.ppp
